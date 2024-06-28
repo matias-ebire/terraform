@@ -9,8 +9,8 @@ provider "aws" {
   engine_version       = "5.7.30"
   instance_class       = "db.t2.micro"
   name                 = "mydb"
-  username             = "shailja"
-  password             = "root12345678"
+  username             = "infos3g"
+  password             = "rootyu4678"
   iam_database_authentication_enabled = true
   parameter_group_name = "default.mysql5.7"
   skip_final_snapshot  = true
