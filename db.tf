@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-east-1"
+  region = ""sa-east-1"
   profile = "default"
 }resource "aws_db_instance" "mydb" {
   allocated_storage    = 20
